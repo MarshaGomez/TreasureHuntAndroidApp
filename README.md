@@ -1,5 +1,7 @@
 # Treasure Hunt 
 
+[![CodeFactor](https://www.codefactor.io/repository/github/marshagomez/treasurehuntandroidapp/badge)](https://www.codefactor.io/repository/github/marshagomez/treasurehuntandroidapp)
+
 - - - -
 
 ## Front-End
